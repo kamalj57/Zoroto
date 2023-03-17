@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Maven+Pro&display=swap');
+html{
+    scroll-behavior: smooth;
+}
+body{
+    background-color: rgb(36, 35, 35);
+    margin-top: 4%;
+    background-repeat: no-repeat;
+}
+.nav{
+    margin-top: 3%;
+    text-align: center;
+    margin-left: 5.4%; 
+}
+.nav-link{
+    text-align: center;
+    font-weight: 400;
+    font-size: 20px;
+    text-decoration: solid;
+    font-family: 'Maven Pro', sans-serif;
+     color: whitesmoke;
+}
+.main{
+    
+    background-image: url(zoro-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 25px 25px 25px 25px;
+    height: 660px; 
+}
+.container{
+    padding: 25px 25px 25px 25px;
+    height: 850px;
+}
+p{
+    font-family: 'Maven Pro',sans-serif;
+}
+.search{
+    margin-left: 10%;
+   margin-top: 5%;
+   padding: 25px 25px;
+   width: 45%;
+   height: 30%;
+   border-radius: 30px;
+}
